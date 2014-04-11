@@ -14,5 +14,5 @@ Una vez dentro, abrir el proyecto 8Reinas
 - Source Packages
   - default packages
     - ProblemaReinas.java
-Abrir este ultimo para poder ver el codigo, para compilarlo solo basta con oprimir con el boton 
+Abrir este ultimo ProblemaReinas.java para poder ver el codigo, para compilarlo solo basta con oprimir con el boton 
 Mayusculas + F6 o hacerlo de forma manual dando click derecho y en "Run File"
